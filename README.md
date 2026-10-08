@@ -1,11 +1,11 @@
 # Hi, I'm Krishna Vishwakarma 👋  
-### MERN-Focused Full-Stack Developer | MERN • Scalable Systems  
+### Data Science & AI/ML Engineer | Deep Learning • LLMs • RAG • NLP  
 
-I build **production-ready web applications** with a strong focus on **backend architecture, system reliability, and real-world problem solving**.
+I build **end-to-end AI/ML applications** with a focus on **deep learning, retrieval-augmented generation, LLM agents, and production-ready deployment**.
 
 
 # 💫 About Me:
-🔭 I’m currently working on production-grade MERN development projects.<br>👯 I’m looking to collaborate on full-stack MERN applications with real-world impact.<br>🤝 I’m looking for help with system design, cloud deployment, and improving performance, security, and reliability. <br>🌱I’m currently learning DSA in Java and advanced Web Development concepts.<br>💬 Ask me about MERN stack, backend testing, API design, and GitHub-first project structuring. <br>⚡ Fun fact : I enjoy turning complex logic into clean, scalable backend systems 🚀
+🔭 I’m currently working on LLM-powered systems: GraphRAG pipelines, autonomous agents, and deep learning applications.<br>👯 I’m looking to collaborate on AI/ML projects in NLP, generative AI, and knowledge-graph-based systems.<br>🤝 I’m looking for help with MLOps, model deployment, and improving the performance and reliability of AI systems.<br>🌱 I’m currently learning advanced deep learning, LLM engineering, and DSA in Java.<br>💬 Ask me about RAG, knowledge graphs, vector embeddings, PyTorch, and building AI apps end to end. <br>⚡ Fun fact : I enjoy turning messy data and complex logic into clean, intelligent systems 🚀
 
 
 ## 🌐 Socials:
@@ -13,25 +13,31 @@ I build **production-ready web applications** with a strong focus on **backend a
 
 ## 🚀 Featured Projects
 
-### 🔹 CredFlow – AI-Powered Invoice Financing Platform
-- MERN-based FinTech platform for SME invoice financing
-- OCR-driven invoice parsing & fraud detection
-- Custom credit scoring & risk classification engine
-- Backend tested with Jest & Supertest
+### 🔹 GraphRAG – Knowledge Graph-based Retrieval-Augmented Generation
+- GraphRAG application built on **Neo4j** knowledge graphs and **Ollama** LLMs
+- Multi-hop retrieval, graph-based context augmentation, and LLM-powered question answering over ingested documents
+- Document ingestion, entity/relationship extraction, provenance citations, database-status monitoring, and audit trails
+- 3 core workflows exposed through an interactive **Streamlit** interface, containerized with **Docker Compose**
 
-🔗 Repo: https://github.com/krishnna05/credflow
+**Stack:** Python • Streamlit • Neo4j • Ollama • Docker • LLM • RAG • Graph Databases
 
-### 🔹 AlgoMed – Smart Telemedicine & Healthcare Platform
-- Full-stack MERN telemedicine platform for online consultations
-- Appointment scheduling, patient-doctor workflow, and dashboards
-- Secure authentication and role-based access
-- Designed backend workflows supporting real-time patient–doctor chat, AI health assistant, and secure video consultations.
+🔗 Repo: https://github.com/krishnna05/GraphRAG.git
 
-🔗 Repo: https://github.com/krishnna05/AlgoMed
+### 🔹 Neural Style Transfer using AdaIN
+- Deep learning application for artistic style transfer between content and style images, built with **PyTorch** and **Adaptive Instance Normalization (AdaIN)**
+- **Flask** web app with a 2-stage image processing pipeline (content/style preprocessing and stylized image generation) using a pre-trained AdaIN model for automated inference
+
+**Stack:** Python • PyTorch • Flask • Deep Learning • Computer Vision
+
+🔗 Repo: https://github.com/krishnna05/Neural-Style-Transfer-with-AdaIN.git
 
 
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+**Focus areas:** Deep Learning • Computer Vision • NLP • LLMs • RAG / GraphRAG • LLM Agents (MCP) • Vector Embeddings • Semantic Search • Graph Databases
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=krishnna05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=krishnna05&theme=dark&hide_border=false)<br/>
